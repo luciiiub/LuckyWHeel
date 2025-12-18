@@ -1,4 +1,4 @@
-# LuckyWHeel
+# LuckyWheel
 
 A reward wheel mini-game where the player spins a roulette to receive a random outcome.
 
